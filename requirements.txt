@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+nltk
+textblob
+# You will manually implement TA-Lib/PyNance functions since they can be tricky to install
+# If you want to try installing them, add:
+# ta-lib
+# pynance
